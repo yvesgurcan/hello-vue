@@ -1,2 +1,1 @@
-# hello-vue
-Simple Vue Starter
+👋 Hello World with Vue
